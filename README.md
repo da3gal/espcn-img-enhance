@@ -1,5 +1,5 @@
 # espcn-img-enhance
-Image Enhancement Using Super Resolution OpenCV ESPCNx4
+Image Enhancement Using Super Resolution OpenCV ESPCNx4 <br/>
 This project was developed as part of my coursework in the third semester of my studies. <br/>
 
 Image Dataset: [https://drive.google.com/drive/u/0/folders/10MuD5HEBCtpzA-X5Xy8zlxE2QWdSiP_n](https://drive.google.com/drive/folders/10MuD5HEBCtpzA-X5Xy8zlxE2QWdSiP_n?usp=sharing) <br/>
